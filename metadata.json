@@ -1,0 +1,6 @@
+{
+  "name": "PHOENIX — Engineering Experience Intelligence",
+  "description": "Organizational hindsight and decision-intelligence system for engineering teams, turning accumulated history into reusable organizational memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
